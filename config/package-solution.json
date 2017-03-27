@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "news-carrousel-client-side-solution",
+    "id": "3fac7d94-7386-4666-a719-cb83ca352be3",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/news-carrousel.sppkg"
+  }
+}

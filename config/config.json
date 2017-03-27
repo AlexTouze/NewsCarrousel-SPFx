@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/newsCarrousel/NewsCarrouselWebPart.js",
+      "manifest": "./src/webparts/newsCarrousel/NewsCarrouselWebPart.manifest.json",
+      "outputPath": "./dist/news-carrousel.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "newsCarrouselStrings": "webparts/newsCarrousel/loc/{locale}.js"
+  }
+}

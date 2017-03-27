@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "573919d2-3941-4aaf-9e6a-b8ade3df83ce",
+  "alias": "NewsCarrouselWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "573919d2-3941-4aaf-9e6a-b8ade3df83ce",
+    "group": { "default": "Under Development" },
+    "title": { "default": "news-carrousel" },
+    "description": { "default": "Carrousel of News" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "news-carrousel"
+    }
+  }]
+}

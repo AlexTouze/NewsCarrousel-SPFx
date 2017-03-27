@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "news-carrousel",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "3fac7d94-7386-4666-a719-cb83ca352be3"
+  }
+}
